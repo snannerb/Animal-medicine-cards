@@ -1,0 +1,38 @@
+body {
+  background-color: grey;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+#draw-card-button {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#draw-card-button:hover {
+  background-color: #45a049;
+}
+
+#animal-image img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+#medicine-summary {
+  font-size: 1rem;
+  color: white;
+}
